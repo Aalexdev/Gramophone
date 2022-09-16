@@ -1,0 +1,25 @@
+# compiled objects folder
+.obj/
+
+# libraries
+libs/
+
+# libraries header
+glm/
+OpenAl/
+sndfile/
+
+# makefile
+makefile
+
+# output binaries
+out/
+
+# compiled shaders
+*.spv
+
+# tests
+*.exe
+
+# IDE
+.vscode/
